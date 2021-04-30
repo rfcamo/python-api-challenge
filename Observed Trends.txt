@@ -1,0 +1,9 @@
+Written description of three observable trends based on the data.
+
+1. Some city between latitude 20 and 40 have an extreme temperature.
+2. Some city between latitude 20 and 40 have extremely high and low humidity.
+3. Some city between latitude 20 and 40 have low to medium wind speed.
+
+In conclusion cities in between latitude 20 and 40 has the high's and low's, but there is also 
+have a lot of city in perfect condition to choose from. Therefore, those cities in average weather 
+are the perfect place for vacation.
